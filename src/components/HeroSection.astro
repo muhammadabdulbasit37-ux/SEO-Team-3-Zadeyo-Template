@@ -1,8 +1,8 @@
 ---
 import { useLocale } from '../i18n';
-import { ROUTES } from '../utils/path';
+import { PRIMARY_CHECKOUT_PATH } from '../config/checkout';
 
-const { locale, t, lp } = useLocale(Astro.currentLocale);
+const { locale, t } = useLocale(Astro.currentLocale);
 import { getHeroSlides } from '../data/products';
 
 const heroSlides = getHeroSlides(locale);
@@ -53,8 +53,8 @@ const heroMarqueePills = [
         <div class="flex flex-wrap justify-start gap-3 sm:gap-4">
           <Button
             as="a"
-            href={lp(ROUTES.products)}
-            data-scroll-target="products"
+            href={PRIMARY_CHECKOUT_PATH}
+            rel="sponsored nofollow"
             variant="primary"
             size="lg"
             class="rounded-xl"

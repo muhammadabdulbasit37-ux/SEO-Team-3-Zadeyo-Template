@@ -1,6 +1,6 @@
 ---
 import { useLocale } from '../i18n';
-import { ROUTES } from '../utils/path';
+import { PRIMARY_CHECKOUT_PATH } from '../config/checkout';
 import { Button } from '@/components/starwind/button';
 import AnimatedThemeSwitch from './AnimatedThemeSwitch.astro';
 import LanguageSwitcher from './LanguageSwitcher.astro';
@@ -28,8 +28,6 @@ const navIcons: Record<NavId, IconName> = {
   faq: 'navFaq',
   support: 'headphones',
 };
-
-const productUrl = lp(ROUTES.products);
 
 interface Props {
   brandLogoAlt?: string;
@@ -87,7 +85,8 @@ const { brandLogoAlt } = Astro.props;
             <LanguageSwitcher variant="compact" />
           </div>
           <SlideRevealButton
-            href={productUrl}
+            href={PRIMARY_CHECKOUT_PATH}
+            rel="sponsored nofollow"
             class="header-cta shrink-0"
           >
             {t.ui.browseCheatsNav}
@@ -100,7 +99,8 @@ const { brandLogoAlt } = Astro.props;
 
         <Button
           as="a"
-          href={productUrl}
+          href={PRIMARY_CHECKOUT_PATH}
+          rel="sponsored nofollow"
           variant="primary"
           class="inline-flex h-9 shrink-0 items-center px-3 text-sm font-semibold lg:hidden"
         >
