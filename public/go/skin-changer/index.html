@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, follow">
+<title>Purchase options for Skin Changer</title>
+<meta name="description" content="Open the product page to review available options and pricing.">
+<script>location.replace((function checkoutDestination(target, search, lifetimeOnly = target === CHECKOUT_URLS.cloudDma) {
+  const destination = new URL(target);
+  if (lifetimeOnly && destination.searchParams.get('plan') !== 'lifetime') destination.searchParams.delete('plan');
+  for (const [name, value] of new URLSearchParams(search)) {
+    const key = name.toLowerCase();
+    if (key === 'to') continue;
+    if (key === 'plan') {
+      if ((value === 'lifetime' || (!lifetimeOnly && value === 'monthly')) && !destination.searchParams.has('plan')) {
+        destination.searchParams.set('plan', value);
+      }
+      continue;
+    }
+    destination.searchParams.append(name, value);
+  }
+  return destination.href;
+})("https://zadeyo.com/go/BASIT?to=%2Fproducts%2Fskin-changer",location.search,false));</script>
+</head>
+<body>
+<h1>Purchase options for Skin Changer</h1>
+<a href="https://zadeyo.com/go/BASIT?to=%2Fproducts%2Fskin-changer" rel="sponsored nofollow">View Purchase Options</a>
+</body>
+</html>

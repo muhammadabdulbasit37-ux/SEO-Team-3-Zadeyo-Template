@@ -1,0 +1,13 @@
+# Reusable media slots
+
+| Slot | Current source and behavior | Part 4 placement |
+| --- | --- | --- |
+| Homepage hero | `HeroSection.astro` and `ImageSlider.astro` use `getHeroSlides(locale)`; the carousel displays at widths of 1024px and up. `src/pages/index.astro` preloads the first desktop slide. | Assign the first approved gameplay capture to the first slide and verify the preload and responsive URL. Preserve the mobile layout and aspect ratio. |
+| Main product gallery | `/cheats/` uses `ProductScreenshotGallery.astro` via `ProductDetail.astro`. The scaffold gameplay masters are shared with the hero through `SHOWCASE_GALLERY_KEYS` in `src/config/gameplayMedia.ts`. | Keep shared ordering unless the owner assigns distinct placements. Check arrows, keyboard, swipes, autoplay and reduced motion against the existing controls. |
+| Gameplay records | `galleryRaw` in `src/data/products.ts` defines `gpMatchEsp` (1024×576), `gpAimbotMenu` and `gpEspMenu` (1024×627). The ES/DE/FR gallery copy is positional in `src/data/products/locales/`. | Map every file to its record, intrinsic dimensions, alt text and captions. Keep all four locales aligned with the new order. |
+| Guides | `src/data/blog/posts/{en,es,de,fr}-articles.ts` owns each cover, alt and dimensions. Guides may reuse the hero/gallery masters. | Update references by shared guide slug and verify list, article, related-card and social use before retiring a source. |
+| Social | `DEFAULT_OG_GAMEPLAY_*` in `src/config/gameplayMedia.ts` feeds shared metadata. Guide pages may supply their own cover. | Set the approved social master, accurate alt and dimensions; verify rendered Open Graph/Twitter URLs and crops. |
+| Utilities | HWID uses `src/config/hwidMedia.ts`; Cloud DMA and Skin Changer gallery data is in `src/data/products.ts`. | Preserve `public/images/{hwid-spoofer,skin-changer,cloud-dma}/` and the archived UGC artwork, including variants. Check the 25 hashes in `src/config/protected-media.json`. |
+| Brand and app icons | `public/images/brand/`, `public/favicon.ico`, `public/favicon-{16,32}.png`, `public/apple-touch-icon.png` and the icon URLs in `public/site.webmanifest`. | Keep the original artwork and variants. Use the existing brand components and avoid the brand generator during screenshot work. |
+
+For every converted site replace scaffold gameplay assets before launch. Place approved gameplay masters in `public/images/gameplay/`. The full build runs the Sharp gameplay pipeline for 400, 512, 640, 800 and 960 pixel WebP variants. The responsive helpers choose widths by placement. Review `dist` for references before removing superseded assets and record each supplied file’s final disposition in the handoff.

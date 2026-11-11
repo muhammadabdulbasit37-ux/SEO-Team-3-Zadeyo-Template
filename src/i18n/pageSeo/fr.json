@@ -1,0 +1,54 @@
+{
+  "/": {
+    "title": "Triches Modern Warfare 4 | Aimbot et ESP",
+    "description": "Modern Warfare 4 Cheats avec aimbot, ESP joueur et radar sous Windows. Consultez les options au moment du paiement."
+  },
+  "/cheats/": {
+    "title": "Modern Warfare 4 Hacks | Modules menu et forfaits",
+    "description": "Modern Warfare 4 Hacks avec ESP joueur, aimbot et radar sous Windows. Options menu et exigences sur {siteDomain}."
+  },
+  "/hwid-spoofer/": {
+    "title": "Modern Warfare 4 HWID Spoofer | Disque, MAC et GPU",
+    "description": "Modern Warfare 4 HWID Spoofer fait tourner disque, MAC et GPU quand ce PC refuse la connexion. Nettoyeur inclus. Consultez les options au moment du paiement."
+  },
+  "/products/": {
+    "title": "Liste produits Modern Warfare 4 | Cheats et utilitaires",
+    "description": "Comparez {cheatProduct} avec HWID Spoofer, Cloud DMA et Skin Changer. Consultez les modalités de livraison et les prérequis de chaque produit."
+  },
+  "/skin-changer/": {
+    "title": "Modern Warfare 4 Skin Changer | Skins armes et tenues",
+    "description": "Modern Warfare 4 Skin Changer prévisualise skins d'armes et tenues côté client sur les titres pris en charge. Consultez les options au moment du paiement."
+  },
+  "/blog/": {
+    "title": "Guides Modern Warfare 4 | ESP, Aimbot et notes de patch",
+    "description": "Parcours préréglés Modern Warfare 4, réglage ESP et visée, config radar et listes contrôle anti-triche sur {siteDomain}."
+  },
+  "/forum/": {
+    "title": "Archives forum Modern Warfare 4 | ESP et statut",
+    "description": "Fils Modern Warfare 4 en lecture seule sur chargeur, configs ESP, patches et notes HWID. Nouveaux fils et réponses fermés."
+  },
+  "/faq/": {
+    "title": "FAQ Modern Warfare 4 | Forfaits, installation et statut",
+    "description": "Prise en charge Windows, forfaits 30 jours et lifetime, contrôles d'état et aide paiement pour Modern Warfare 4 sur {siteDomain}."
+  },
+  "/terms/": {
+    "title": "Conditions de vente | Licences et remboursements",
+    "description": "Ventes finales après paiement. Limites de licence, exceptions remboursement et sanctions de compte pour les produits sur {siteDomain}."
+  },
+  "/privacy/": {
+    "title": "Politique de confidentialité | Analyses, cookies et tickets",
+    "description": "Ce que {siteDomain} collecte en analyses, quels cookies il pose et combien de temps un ticket garde votre e-mail."
+  },
+  "/about/": {
+    "title": "À propos de {siteName} | Notes d'état et support",
+    "description": "{siteName} publie les notes sur Modern Warfare 4 Cheats, l’état des produits et les ressources d’assistance sur {siteDomain}."
+  },
+  "/support/": {
+    "title": "Support | Chargeur, commandes et aide installation",
+    "description": "Ouvrez un ticket pour un problème de commande ou d’installation, consultez les guides et trouvez des réponses sur les paiements et les comptes."
+  },
+  "/cloud-dma/": {
+    "title": "Cloud DMA sur un PC Windows",
+    "description": "Cloud DMA peut nécessiter des achats séparés de GREENWARD, Static Server et AWS. Consultez les prérequis et le prix en vigueur au moment du paiement."
+  }
+}

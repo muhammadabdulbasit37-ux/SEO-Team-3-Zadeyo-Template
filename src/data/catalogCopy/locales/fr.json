@@ -1,0 +1,95 @@
+{
+  "eyebrow": "Boutique",
+  "title": "Cheats et utilitaires {gameName}",
+  "subtitle": "Quatre produits pour {gameName}. La page cheat liste le menu. Chaque page utilitaire liste sa propre licence.",
+  "trust": [
+    "Livraison par portail",
+    "Assistance 24h/24",
+    "Options lors du paiement"
+  ],
+  "featuredEyebrow": "Produit principal",
+  "from": "À partir de",
+  "priceLabel": "Prix",
+  "lifetime": "À vie",
+  "perMonth": "/ mois",
+  "utilitiesEyebrow": "Utilitaires",
+  "utilitiesTitle": "Plus d'outils que nous vendons",
+  "utilitiesDesc": "Chaque utilitaire est une licence séparée, avec sa page et son propre paiement.",
+  "chooserEyebrow": "Pas sûr ?",
+  "chooserTitle": "De quel produit ai-je besoin ?",
+  "chooserDesc": "Partez de la situation. Chaque ligne ouvre le produit qui correspond.",
+  "scenarios": [
+    {
+      "slug": "elite",
+      "need": "Je veux aimbot, silent aimbot, ESP, wallhack et sans recul dans {gameShort}.",
+      "answer": "{cheatProduct}"
+    },
+    {
+      "slug": "hwid-spoofer",
+      "need": "Un nouveau compte se connecte sur d'autres PC et échoue tout de suite sur celui-ci.",
+      "answer": "HWID Spoofer"
+    },
+    {
+      "slug": "cloud-dma",
+      "need": "Je veux installer Cloud DMA sur un PC Windows.",
+      "answer": "Cloud DMA"
+    },
+    {
+      "slug": "skin-changer",
+      "need": "Je veux des finitions premium à l'écran sans payer chaque cosmétique.",
+      "answer": "Skin Changer"
+    }
+  ],
+  "compareEyebrow": "Comparer",
+  "compareTitle": "Comparez les produits côte à côte",
+  "compareDesc": "Comparez les fonctionnalités, la livraison et les prérequis. Les détails sont sur chaque page.",
+  "compareRows": [
+    {
+      "label": "Idéal pour",
+      "values": {
+        "elite": "Aimbot, ESP et les autres options de combat listées",
+        "hwid-spoofer": "Un PC bloqué au niveau matériel",
+        "skin-changer": "Aperçus cosmétiques sur ce client",
+        "cloud-dma": "Infrastructure pour un PC"
+      }
+    },
+    {
+      "label": "Livraison",
+      "values": {
+        "elite": "Portail, juste après le paiement",
+        "hwid-spoofer": "Tout de suite, via le portail",
+        "skin-changer": "Livraison portail, immédiate",
+        "cloud-dma": "Installation guidée de Hyper-V"
+      }
+    },
+    {
+      "label": "Windows",
+      "values": {
+        "elite": "Correspondre à la build du jeu en direct",
+        "hwid-spoofer": "10 / 11, 64 bits, administrateur",
+        "skin-changer": "10 / 11, 64 bits",
+        "cloud-dma": "10 / 11, 64 bits"
+      }
+    },
+    {
+      "label": "Paramètres de sécurité",
+      "values": {
+        "elite": "Lire d'abord la bannière de statut",
+        "hwid-spoofer": "HVCI, TPM, Secure Boot activés",
+        "skin-changer": "HVCI, TPM, Secure Boot activés",
+        "cloud-dma": "Hyper-V et virtualisation du processeur requis"
+      }
+    }
+  ],
+  "ctaTitle": "Vous hésitez encore ?",
+  "ctaDesc": "Dites au support l'objectif ou l'erreur. Ils nommeront le produit avant le paiement.",
+  "ctaSupport": "Demander au support",
+  "menuHeading": "Produits",
+  "menuViewAll": "Comparer tous les produits",
+  "menuTaglines": {
+    "elite": "Visée, ESP, wallhack et mouvement",
+    "hwid-spoofer": "Passage identifiants disque, MAC et GPU",
+    "skin-changer": "Skins, tenues et couteaux à l'écran",
+    "cloud-dma": "Installation guidée de Hyper-V"
+  }
+}

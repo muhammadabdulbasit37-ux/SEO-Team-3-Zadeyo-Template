@@ -1,0 +1,54 @@
+{
+  "/": {
+    "title": "Modern Warfare 4 Cheats | Aimbot, ESP und Radar auf dem PC",
+    "description": "Modern Warfare 4 Cheats mit Aimbot, Player ESP und Radar unter Windows. Kaufoptionen sehen Sie an der Kasse."
+  },
+  "/cheats/": {
+    "title": "Modern Warfare 4 Hacks | Menümodule und Checkout-Tarife",
+    "description": "Modern Warfare 4 Hacks mit Player ESP, Aimbot und Radar unter Windows. Menüoptionen und Anforderungen auf {siteDomain} prüfen."
+  },
+  "/hwid-spoofer/": {
+    "title": "Modern Warfare 4 HWID Spoofer | Disk- und MAC-IDs",
+    "description": "Modern Warfare 4 HWID Spoofer rotiert Disk-, MAC- und GPU-IDs, wenn dieser PC die Anmeldung verweigert. Cleaner inklusive. Kaufoptionen sehen Sie an der Kasse."
+  },
+  "/products/": {
+    "title": "Modern Warfare 4 Produktliste | Cheats und Utilities",
+    "description": "{cheatProduct} mit HWID Spoofer, Cloud DMA und Skin Changer vergleichen. Details zu Lieferung und Anforderungen stehen auf den Produktseiten."
+  },
+  "/skin-changer/": {
+    "title": "Modern Warfare 4 Skin Changer | Waffen- und Outfit-Skins",
+    "description": "Modern Warfare 4 Skin Changer zeigt Waffen-Skins und Outfits clientseitig in unterstützten Titeln. Kaufoptionen sehen Sie an der Kasse."
+  },
+  "/blog/": {
+    "title": "Modern Warfare 4 Guides | ESP, Aimbot und Patch-Notizen",
+    "description": "Modern Warfare 4 Preset-Walkthroughs, ESP- und Aim-Tuning, Radar-Setup und Anti-Cheat-Checklisten auf {siteDomain}."
+  },
+  "/forum/": {
+    "title": "Modern Warfare 4 Forum-Archiv | Setup, ESP und Status",
+    "description": "Schreibgeschützte Modern Warfare 4-Threads zu Loader-Setup, ESP-Configs, Patches und HWID-Notizen. Neue Threads und Antworten sind geschlossen."
+  },
+  "/faq/": {
+    "title": "Modern Warfare 4 FAQ | Tarife, Setup und Status",
+    "description": "Windows-Support, 30-Tage- und Lifetime-Tarife, Status-Checks und Checkout-Hilfe für Modern Warfare 4 auf {siteDomain}."
+  },
+  "/terms/": {
+    "title": "Verkaufsbedingungen | Lizenzen und Erstattungen",
+    "description": "Verkäufe sind nach dem Checkout final. Lizenzlimits, Erstattungsausnahmen und Kontosanktionen für Produkte auf {siteDomain}."
+  },
+  "/privacy/": {
+    "title": "Datenschutz | Analytics, Cookies und Tickets",
+    "description": "Was {siteDomain} in Analytics erfasst, welche Cookies gesetzt werden und wie lange ein Support-Ticket Ihre E-Mail behält."
+  },
+  "/about/": {
+    "title": "Über {siteName} | Status-Notizen und Support",
+    "description": "{siteName} veröffentlicht Hinweise zu Modern Warfare 4 Cheats, den Produktstatus und Support-Ressourcen auf {siteDomain}."
+  },
+  "/support/": {
+    "title": "Support | Loader, Bestellungen und Setup-Hilfe",
+    "description": "Eröffnen Sie ein Ticket bei Bestell- oder Einrichtungsproblemen und finden Sie Anleitungen sowie Antworten zu Zahlungen und Kontozugriff."
+  },
+  "/cloud-dma/": {
+    "title": "Cloud DMA auf einem Windows-PC",
+    "description": "Cloud DMA kann GREENWARD, Static Server und AWS als separate Käufe erfordern. Prüfe die Voraussetzungen und den aktuellen Preis beim Checkout."
+  }
+}

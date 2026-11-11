@@ -1,0 +1,152 @@
+[
+  {
+    "id": "status",
+    "q": "Wo prüfe ich, ob Modern Warfare 4 Cheats online sind?",
+    "a": "Das Statusbanner steht auf {siteDomain}. Lesen Sie es nach einem Modern Warfare 4 Update und nach einem Anti-Cheat-Update."
+  },
+  {
+    "id": "after-buy",
+    "q": "Was passiert nach dem Kauf?",
+    "a": "Nach dem Checkout finden Sie im Portal den Loader, die Setup-Anleitung und Ihre gespeicherten Konfigurationen. Lesen Sie die Anleitung, bevor Sie Modern Warfare 4 starten."
+  },
+  {
+    "id": "ban-risk",
+    "q": "Kann ich bei Modern Warfare 4 Cheats von Drittanbietern sanktioniert werden?",
+    "a": "Ja. Eine Modifikation von Drittanbietern kann zu einer Kontosanktion führen. Anti-Cheat-Regeln ändern sich. Lesen Sie das Banner, bevor Sie das Menü nutzen."
+  },
+  {
+    "id": "platforms",
+    "q": "Welche Plattformen werden unterstützt?",
+    "a": "Modern Warfare 4 unter Windows 10 oder Windows 11, 64-Bit. macOS und Linux stehen nicht auf dieser Liste."
+  },
+  {
+    "id": "license-move",
+    "q": "Kann ich meine Lizenz auf einen neuen PC übertragen?",
+    "a": "Nutzen Sie den HWID-Reset im Portal oder eröffnen Sie ein Support-Ticket. Die Anzahl der Umzüge hängt von der Stufe ab."
+  },
+  {
+    "id": "products-page",
+    "q": "Wo sind Produkte und Utilities aufgeführt?",
+    "a": "Jedes Produkt steht auf der <a href=\"/products/\">Produktseite</a>: {productList}. Jede Produktseite beschreibt die Funktionen und enthält einen Link zum Checkout."
+  },
+  {
+    "id": "cloud-dma-what",
+    "q": "Was installiert Cloud DMA?",
+    "a": "Das Installationsprogramm richtet die virtuelle Umgebung auf deinem PC ein und aktiviert den Dienst über eine verschlüsselte Verbindung."
+  },
+  {
+    "id": "cloud-dma-requires",
+    "q": "Was muss ich zusätzlich kaufen?",
+    "a": "Cloud DMA kann GREENWARD, Static Server und AWS als separate Käufe erfordern. Prüfe die Voraussetzungen und den aktuellen Preis beim Checkout."
+  },
+  {
+    "id": "cloud-dma-license",
+    "q": "Was kostet die Cloud-DMA-Lizenz?",
+    "a": "Aktuelle Optionen, Zugangsbedingungen und Preise werden beim Checkout angezeigt."
+  },
+  {
+    "id": "skin-visible",
+    "q": "Legt Skin Changer Kosmetik in mein Inventar?",
+    "a": "Nein. <a href=\"/skin-changer/\">Skin Changer</a> zeichnet Kosmetik nur auf Ihrem Client. Das Inventar bleibt leer. Handel bleibt unmöglich. Andere Spieler sollen das Finish voraussichtlich nicht sehen."
+  },
+  {
+    "id": "skin-games",
+    "q": "Welche Spiele listet Skin Changer?",
+    "a": "Wichtige Spiele stehen auf der Produktseite. Ein Patch kann den Support entfernen. Mailen Sie den Support und nennen Sie Ihren Titel vor dem Checkout."
+  },
+  {
+    "id": "utility-requirements",
+    "q": "Welche Windows-Einrichtung brauchen die Utilities?",
+    "a": "Windows 10 oder 11. HVCI und Core Isolation an. TPM und Secure Boot an, in Windows-Sicherheit und in der Firmware. HWID Spoofer braucht außerdem Administratorrechte. Jede Utility-Seite listet den Rest."
+  },
+  {
+    "id": "what-is-esp",
+    "q": "Was ist Modern Warfare 4 ESP?",
+    "a": "ESP und Wallhack zeigen Feindposition, Gesundheit und Distanz in Modern Warfare 4. <a href=\"/cheats/\">{cheatProduct}</a> umfasst auch Aimbot, Silent Aimbot, No Recoil, God Mode, unendliche Munition und Speedhack."
+  },
+  {
+    "id": "esp-vs-aim",
+    "q": "Was ist der Unterschied zwischen ESP und Aimbot?",
+    "a": "ESP und Wallhack zeichnen Informationen. Sie lassen das Fadenkreuz, wo Sie es setzen. Aimbot, Silent Aimbot und No Recoil sind getrennte Schalter auf <a href=\"/cheats/\">{cheatProduct}</a>."
+  },
+  {
+    "id": "elite-slots",
+    "q": "Warum wird der Cheat als privater Build verkauft?",
+    "a": "Der Build ist privat, mit direktem Entwickler-Support und priorisierter Patch-Lieferung. Ein Platzlimit hält diese Patch-Zyklen kurz. Lesen Sie das Banner vor der Zahlung."
+  },
+  {
+    "id": "stream-proof",
+    "q": "Kann OBS mein Overlay erfassen?",
+    "a": "Die Optionsliste auf <a href=\"/cheats/\">{cheatProduct}</a> hat keinen Capture-Filter. Machen Sie eine lokale Aufnahme vor einer Live-Session."
+  },
+  {
+    "id": "build-status",
+    "q": "Bleibt der Build nach jedem Patch online?",
+    "a": "Nein. Banner und Produktseite zeigen den Status zum Zeitpunkt Ihres Blicks. Steht der Build nach einem Anti-Cheat-Update auf updating, testing oder offline, warten Sie."
+  },
+  {
+    "id": "esp-safer",
+    "q": "Ist ESP unauffälliger als Aimbot?",
+    "a": "ESP kann weniger auffällig sein als ein Aimbot auf Maximum. Es bleibt ein Cheat. Aim-Assist aus zu lassen entfernt es nicht aus der Anti-Cheat-Prüfung."
+  },
+  {
+    "id": "hwid-when",
+    "q": "Wann ist HWID Spoofer das richtige Produkt?",
+    "a": "<a href=\"/hwid-spoofer/\">HWID Spoofer</a> ist für ein Hardware-ID-Flag: andere PCs akzeptieren den Login, dieser lehnt ab. Festplattenseriennummern werden erneuert. MAC-Adressen, GPU-IDs und verwandte Werte ebenfalls. Ein Cleaner ist enthalten. Ein weiterhin sanktioniertes Konto wird nicht gelöscht."
+  },
+  {
+    "id": "external-loader",
+    "q": "Wird der Loader in den Spieleordner injiziert?",
+    "a": "{siteName} nutzt einen externen Loader und synchronisiert Configs aus dem Portal. Es legt keine Dateien im Modern Warfare 4 Verzeichnis ab. Kontosanktionen können trotzdem folgen. Siehe <a href=\"/cheats/\">{cheatProduct}</a>."
+  },
+  {
+    "id": "blog-vs-cheats",
+    "q": "Ersetzt dieser Artikel das Live-Statusbanner?",
+    "a": "Nein. Guides erklären ein Thema. Eine Live Modern Warfare 4 Session nutzt weiter <a href=\"/cheats/\">{cheatProduct}</a>, wenn das Banner auf {siteDomain} online anzeigt."
+  },
+  {
+    "id": "blog-setup",
+    "q": "Wohin verweisen Blog-Setup-Guides für den Kauf?",
+    "a": "Guides verlinken Produktseiten wie <a href=\"/cheats/\">{cheatProduct}</a>. Nutzen Sie den Checkout-Link auf der Produktseite und laden Sie den Loader aus dem Portal herunter."
+  },
+  {
+    "id": "who-cheats",
+    "q": "Wer sollte Modern Warfare 4 Cheats kaufen?",
+    "a": "Leute, die Aimbot, Silent Aimbot, ESP, Wallhack und die anderen gelisteten Optionen beim Spielen von Modern Warfare 4 wollen."
+  },
+  {
+    "id": "vac-update",
+    "q": "Was soll ich nach einem Anti-Cheat-Update tun?",
+    "a": "Lesen Sie den Status auf {siteDomain}. Warten Sie, bis das Banner online anzeigt. Starten Sie nach einem Patch mit leiseren Aim- und ESP-Einstellungen."
+  },
+  {
+    "id": "discord-help",
+    "q": "Wie bekomme ich Installationshilfe?",
+    "a": "Nach der Zahlung öffnen Sie ein Ticket mit Bestell-E-Mail, Windows-Version und Modern Warfare 4 Client-Build. Support führt Sie von dort durch den Loader."
+  },
+  {
+    "id": "pmc-scav-raids",
+    "q": "Funktionieren Module in allen Modern Warfare 4 Spielmodi?",
+    "a": "Dieselbe Optionsliste zeigt das Menü in jedem Modus. Stellen Sie ESP-Distanz und Aim-Glättung vor dem ersten Match auf <a href=\"/cheats/\">{cheatProduct}</a> ein."
+  },
+  {
+    "id": "zoom-hack",
+    "q": "Welche Optionen decken ESP und Wallhack ab?",
+    "a": "ESP und Wallhack gehören zu <a href=\"/cheats/\">{cheatProduct}</a>. Sie zeigen Feindposition, Gesundheit und Distanz."
+  },
+  {
+    "id": "trigger-bot",
+    "q": "Enthält das Produkt Silent Aimbot?",
+    "a": "Aimbot, Silent Aimbot und No Recoil sind auf <a href=\"/cheats/\">{cheatProduct}</a>. Jede Option hat einen Schalter im Menü."
+  },
+  {
+    "id": "private-cheats",
+    "q": "Was sind private Modern Warfare 4 Cheats?",
+    "a": "Privat bedeutet ein Schlüssel pro Nutzer und ein gepflegter Build, geliefert im Portal für das Modern Warfare 4 Menü auf einer Lizenz."
+  },
+  {
+    "id": "faq-more",
+    "q": "Wo ist die vollständige FAQ?",
+    "a": "Kurze Antworten stehen auf der Startseite und auf jeder Produktseite. Die <a href=\"/faq/\">vollständige FAQ</a> hat den ganzen Satz, und <a href=\"/blog/\">Blog-Guides</a> sind für längere Anleitungen, wenn sie erscheinen."
+  }
+]

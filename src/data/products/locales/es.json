@@ -1,0 +1,335 @@
+{
+  "sharedGoodToKnow": "Una nueva versión del juego o una actualización antitrampas puede cambiar qué opciones siguen funcionando. Lea el banner en {siteDomain} antes de pagar o iniciar.",
+  "sharedLimitations": "El software de trampas de terceros puede detectarse, dejar de funcionar tras una actualización del juego y provocar sanciones en la cuenta. La compatibilidad puede cambiar antes de que se edite esta página.",
+  "acquisitionSteps": [
+    {
+      "num": "01",
+      "title": "Revise el estado actual",
+      "desc": "Lea el banner en {siteDomain} antes de pagar, y de nuevo tras una actualización de Modern Warfare 4 o del antitrampas."
+    },
+    {
+      "num": "02",
+      "title": "Elija su nivel de acceso",
+      "desc": "Elija Modern Warfare 4 Cheats o la utilidad que encaje con el objetivo. Revise sus funciones antes de pagar."
+    },
+    {
+      "num": "03",
+      "title": "Contacte al equipo",
+      "desc": "Escriba al soporte con el correo del pedido listo si necesita confirmar disponibilidad, configuración de Windows o datos de pago."
+    },
+    {
+      "num": "04",
+      "title": "Siga la configuración guiada",
+      "desc": "Siga la guía de configuración después de pagar. Pida ayuda al soporte si la instalación se detiene. Compruebe la versión actual del juego antes de iniciar."
+    }
+  ],
+  "systemRequirements": [
+    "Confirme la versión actual del juego antes de iniciar.",
+    "Los parches y las actualizaciones del antitrampas pueden cambiar la compatibilidad."
+  ],
+  "gallery": [
+    {
+      "alt": "Vista de rifle en primera persona en una azotea con nieve, con nombres, distancias y marcos verdes.",
+      "caption": "Superposiciones en partida",
+      "captionDesc": "Nombres, distancias y marcos en un combate en azotea de Modern Warfare 4."
+    },
+    {
+      "alt": "Panel de aimbot con Aim Key M2, hueso Nearest, Check Visibility activo, FOV 100 y suavizado.",
+      "caption": "Menú de aimbot",
+      "captionDesc": "Tecla de puntería, hueso, suavizado, FOV y distancia máxima en la pestaña aimbot."
+    },
+    {
+      "alt": "Pestaña Players del ESP con Enable ESP y Show Team, más nombre, distancia, salud, huesos y caja.",
+      "caption": "Menú ESP",
+      "captionDesc": "Nombre, distancia, barra de salud, huesos e interruptores de caja en la pestaña de jugadores."
+    }
+  ],
+  "tiers": {
+    "elite": {
+      "about": [
+        {
+          "type": "p",
+          "text": "Cada interruptor del menú cubre una opción: aimbot o silent aimbot, ESP o wallhack, God Mode, munición infinita, sin retroceso o speedhack."
+        },
+        {
+          "type": "h2",
+          "text": "Configuración y soporte"
+        },
+        {
+          "type": "p",
+          "text": "El menú activa o desactiva cada opción y muestra los ajustes de esa opción. Las notas de configuración llegan en el portal. Un parche puede cambiar qué ajustes siguen disponibles."
+        }
+      ],
+      "body": [
+        {
+          "type": "h2",
+          "text": "Planes y entrega"
+        },
+        {
+          "type": "p",
+          "text": "Ambos planes usan la misma lista de opciones. El portal entrega el cargador tras el pago. Lea el banner de estado antes de una sesión."
+        },
+        {
+          "type": "h2",
+          "text": "Actualizaciones y compatibilidad"
+        },
+        {
+          "type": "p",
+          "text": "La compatibilidad puede cambiar tras una actualización de Modern Warfare 4 o un cambio del antitrampas. Compruebe la versión del juego y el banner en {siteDomain} antes de iniciar."
+        }
+      ],
+      "overview": {
+        "title": "Suite de cheat Modern Warfare 4",
+        "paragraphs": [
+          "El menú agrupa aimbot con silent aimbot, luego ESP con wallhack. God Mode va con munición infinita. Sin retroceso va con speedhack.",
+          "Wallhack y ESP muestran la posición del enemigo con salud y distancia. Tras un parche, lea el banner en {siteDomain} antes de abrir el juego."
+        ]
+      },
+      "goodToKnow": "Una nueva versión del juego o una actualización antitrampas puede cambiar qué opciones siguen funcionando. Lea el banner en {siteDomain} antes de pagar o iniciar.",
+      "limitations": "El software de trampas de terceros puede detectarse, dejar de funcionar tras una actualización del juego y provocar sanciones en la cuenta. La compatibilidad puede cambiar antes de que se edite esta página.",
+      "acquisitionTitle": "Cómo obtener Modern Warfare 4 Cheats"
+    }
+  },
+  "utilities": {
+    "hwid-spoofer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Marcas que permanecen en la máquina"
+        },
+        {
+          "type": "p",
+          "text": "Una marca de hardware sigue al PC. Cambiar el nombre de usuario no la mueve. Si otros equipos aceptan el inicio de sesión y este rechaza cada cuenta nueva, actualice los identificadores. Los números de serie del disco se reescriben en el panel. Las direcciones MAC, los ID de GPU y las huellas relacionadas van en el mismo paso. El inicio de sesión puede usar un perfil de hardware limpio. Una sanción que sigue en la cuenta no se levanta."
+        },
+        {
+          "type": "h2",
+          "text": "Familias antitrampas descritas en esta página"
+        },
+        {
+          "type": "p",
+          "text": "Riot Vanguard (Valorant) es una nota en esta página. Easy Anti-Cheat es otra. BattlEye también figura. Ricochet (Call of Duty) aparece con ACE y con Javelin. Se incluyen pilas comparables. La suplantación puede entrar en conflicto con los términos del editor. Puede traer nuevas sanciones. Tras una actualización del proveedor, una nota antitrampas listada puede terminar sin aviso. Las reglas de detección cambian en el proveedor. Lea esta página y confirme el título antes del pago."
+        },
+        {
+          "type": "h2",
+          "text": "Limpieza incluida en la licencia"
+        },
+        {
+          "type": "p",
+          "text": "Se incluye un limpiador que elimina restos tras la suplantación. Termine los cambios de identificador, ejecute esa limpieza e inicie el juego en el orden que indica la guía del portal activo."
+        },
+        {
+          "type": "h2",
+          "text": "Requisitos en este PC"
+        },
+        {
+          "type": "p",
+          "text": "Windows 10 u 11, 64 bits, es el sistema aquí. La suplantación y el limpiador requieren derechos de administrador. En Seguridad de Windows, HVCI y Core Isolation permanecen activos. Internet debe mantenerse para activación y actualizaciones. En firmware, TPM y Secure Boot permanecen activos."
+        }
+      ],
+      "overview": {
+        "title": "Un refresco cuando el bloqueo es este PC",
+        "paragraphs": [
+          "Empiece aquí tras una marca de hardware. Actualice los números de serie del disco en esta máquina. El mismo trabajo cubre direcciones MAC e ID de GPU, más huellas relacionadas, para que el inicio de sesión pueda continuar. Las notas de cobertura nombran Vanguard. También nombran Easy Anti-Cheat y BattlEye. Ricochet aparece con pilas similares. Un limpiador viene en el paquete.",
+          "Otros equipos pueden aceptar un inicio de sesión nuevo mientras este lo detiene al instante. Ese es el caso de este producto. Una sanción guardada en el registro de la cuenta permanece. Las herramientas en las dos licencias son las mismas."
+        ]
+      },
+      "goodToKnow": "Ejecute el cambio de identificador y el limpiador, en el orden de la guía del portal, antes de abrir el juego que levantó la marca de hardware. Vuelva a leer las notas antitrampas en el banner de estado antes de pagar.",
+      "limitations": "Este producto es para marcas de ID de hardware. Una sanción de cuenta que sigue activa permanece activa. La suplantación puede entrar en conflicto con los términos del editor y traer nuevas sanciones. Una actualización del proveedor puede terminar una nota antitrampas listada sin aviso previo en esta página.",
+      "acquisitionTitle": "Pedido de esta licencia HWID",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Compare su título con la lista",
+          "desc": "La cobertura publicada nombra Riot Vanguard. Easy Anti-Cheat va con BattlEye en esa lista. Ricochet está con familias relacionadas. Compare su título con la lista y con el banner en {siteDomain} antes de pagar."
+        },
+        {
+          "num": "02",
+          "title": "Elija 31 días o lifetime",
+          "desc": "Cualquier licencia incluye el panel del operador y el limpiador de rastros."
+        },
+        {
+          "num": "03",
+          "title": "Configure Windows antes de la primera suplantación",
+          "desc": "En Seguridad de Windows, active HVCI y Core Isolation. En firmware, active TPM y Secure Boot. Haga ambos antes de la primera sesión. También se requieren derechos de administrador en este PC para la suplantación y el limpiador."
+        },
+        {
+          "num": "04",
+          "title": "Cambie IDs, limpie e inicie",
+          "desc": "El orden de la guía del portal es el cambio de identificador, luego la limpieza incluida, luego el cliente del juego."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11, 64 bits.",
+        "En Seguridad de Windows, HVCI y Core Isolation activos.",
+        "Derechos de administrador para la suplantación y el limpiador.",
+        "Internet estable para activación y actualizaciones.",
+        "TPM y Secure Boot activos en BIOS/UEFI."
+      ],
+      "gallery": [
+        {
+          "alt": "Ventana Device que lista DISK, MOBO, Display, UUID, GPU y Network como changed o unchanged.",
+          "caption": "Filas de comprobación de series",
+          "captionDesc": "Tras un ciclo de suplantación, cada fila indica si ese valor de hardware cambió."
+        },
+        {
+          "alt": "Ventana Device con Permanent Spoof, GPU spoof activo, ethernet apagado y un campo seed.",
+          "caption": "Controles de firmware",
+          "captionDesc": "Desde esta pantalla de firmware puede activar suplantación de GPU o ethernet, escribir una semilla y aplicar un cambio permanente."
+        }
+      ]
+    },
+    "skin-changer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Qué dibuja el cliente"
+        },
+        {
+          "type": "p",
+          "text": "Este cliente ligero dibuja skins premium de armas. También dibuja atuendos de personaje. También dibuja variantes raras de cuchillo en juegos compatibles. Esos cosméticos no requieren cada uno una compra aparte. Un acabado no es un bien real."
+        },
+        {
+          "type": "h2",
+          "text": "Visible solo en su pantalla"
+        },
+        {
+          "type": "p",
+          "text": "El aspecto permanece en su pantalla. Los inventarios no ganan artículos. El comercio sigue siendo imposible. Al cerrar el cliente desaparecen las imágenes. No se espera que otros jugadores vean el acabado."
+        },
+        {
+          "type": "h2",
+          "text": "La lista compatible puede cambiar"
+        },
+        {
+          "type": "p",
+          "text": "Los juegos principales están listados hoy. Un parche puede quitar una entrada de esa lista. Una actualización de Windows también puede cambiar esa lista. Antes de comprar, pregunte al soporte si su título sigue en la lista. Un cliente cosmético aún puede entrar en conflicto con los términos del juego y provocar acción sobre la cuenta."
+        },
+        {
+          "type": "h2",
+          "text": "Configuración del PC para el cliente cosmético"
+        },
+        {
+          "type": "p",
+          "text": "Se requiere Windows 10 u 11, con HVCI y Core Isolation activos, y con TPM y Secure Boot activos. Tras la compra también necesita acceso al cargador."
+        }
+      ],
+      "overview": {
+        "title": "Acabados dibujados aquí, no comprados uno a uno",
+        "paragraphs": [
+          "Skin Changer dibuja skins premium de armas sobre juegos compatibles. Atuendos y variantes de cuchillo están en esa misma biblioteca. No compra cada cosmético por separado.",
+          "La imagen permanece en su máquina. No se escribe en el inventario de la cuenta. Ambos planes comparten una biblioteca. Antes de comprar, pida al soporte que confirme el título."
+        ]
+      },
+      "goodToKnow": "El cosmético aparece solo dentro de su cliente local. El inventario no recibe el artículo. Pregunte al personal si el título está cubierto antes del pago.",
+      "limitations": "Un cliente cosmético aún puede entrar en conflicto con los términos del juego y provocar acción sobre la cuenta. Un acabado no es un bien real. No se puede comerciar. Desaparece al salir del cliente. Un parche o una actualización de Windows puede cambiar qué juegos y artículos están listados.",
+      "acquisitionTitle": "Antes del cliente cosmético",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Pregunte si su juego sigue listado",
+          "desc": "Los títulos principales están cubiertos, y un parche puede mover esa lista. Envíe al soporte el nombre del juego antes del pago y pregunte si esos cosméticos siguen listados."
+        },
+        {
+          "num": "02",
+          "title": "Elija cuánto dura la licencia cosmética",
+          "desc": "La biblioteca en sí no cambia con el plazo. Las opciones, condiciones de acceso y precios actuales aparecen al pagar."
+        },
+        {
+          "num": "03",
+          "title": "Prepare Windows para el cliente cosmético",
+          "desc": "Antes de la primera sesión, Seguridad de Windows necesita HVCI y Core Isolation. El firmware necesita TPM y Secure Boot."
+        },
+        {
+          "num": "04",
+          "title": "Elija aspectos dentro del cliente",
+          "desc": "Cuando el portal haya entregado acceso, abra el cliente ligero. Para esa sesión, elija un skin de arma, un atuendo o una variante de cuchillo."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11, 64 bits.",
+        "Core Isolation y HVCI activos en Seguridad de Windows.",
+        "Secure Boot y TPM activos en BIOS/UEFI.",
+        "Internet, más acceso al cargador, tras la compra."
+      ],
+      "gallery": [
+        {
+          "alt": "Escudo Skin Changer con rifles cruzados, revólveres y destellos de estrella.",
+          "caption": "Marca cosmética",
+          "captionDesc": "Acabados de armas, atuendos de personaje y estilos de cuchillo se dibujan solo en su pantalla."
+        }
+      ]
+    },
+    "cloud-dma": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Cloud DMA en un PC con Windows"
+        },
+        {
+          "type": "p",
+          "text": "El instalador prepara el entorno virtual en tu PC y activa el servicio mediante una conexión cifrada."
+        },
+        {
+          "type": "h2",
+          "text": "Pedido"
+        },
+        {
+          "type": "p",
+          "text": "Cloud DMA puede requerir GREENWARD, Static Server y AWS como compras separadas. Consulta los requisitos y el precio vigente al pagar."
+        }
+      ],
+      "overview": {
+        "title": "Cloud DMA en un PC con Windows",
+        "paragraphs": [
+          "El instalador prepara el entorno virtual en tu PC y activa el servicio mediante una conexión cifrada.",
+          "Cloud DMA puede requerir GREENWARD, Static Server y AWS como compras separadas. Consulta los requisitos y el precio vigente al pagar."
+        ]
+      },
+      "goodToKnow": "Cloud DMA puede requerir GREENWARD, Static Server y AWS como compras separadas. Consulta los requisitos y el precio vigente al pagar.",
+      "limitations": "Cloud DMA está diseñado para un solo PC. Los sistemas que necesitan un dispositivo DMA externo o un segundo equipo quedan fuera de su alcance.",
+      "acquisitionTitle": "Configuración",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Comprueba Windows y el firmware",
+          "desc": "Confirma que tu edición de Windows admite Hyper-V y activa la virtualización en el firmware."
+        },
+        {
+          "num": "02",
+          "title": "Revisa las compras adicionales",
+          "desc": "Compra GREENWARD, Static Server y AWS por separado."
+        },
+        {
+          "num": "03",
+          "title": "Elige el acceso de por vida",
+          "desc": "Las opciones, condiciones de acceso y precios actuales aparecen al pagar."
+        },
+        {
+          "num": "04",
+          "title": "Ejecuta la instalación guiada",
+          "desc": "Instala el entorno Hyper-V y actívalo con una conexión estable."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11 de 64 bits con Hyper-V disponible. Se recomienda Pro, Enterprise o Education.",
+        "Intel VT-x o AMD-V activado en el firmware, con TPM y arranque seguro.",
+        "HVCI y aislamiento del núcleo activos en Seguridad de Windows.",
+        "Al menos 8 GB de RAM. Se recomiendan 16 GB.",
+        "Banda ancha estable para la activación y la conexión al servicio."
+      ],
+      "fullFeatures": [
+        "Configuración en un solo PC",
+        "Instalación guiada de Hyper-V",
+        "Activación cifrada",
+        "Acceso de por vida"
+      ],
+      "gallery": [
+        {
+          "alt": "Icono de Cloud DMA con una nube brillante de color morado y azul",
+          "caption": "Configuración en un solo PC",
+          "captionDesc": "Hyper-V se ejecuta en el PC y se conecta al servicio para la activación."
+        }
+      ]
+    }
+  }
+}

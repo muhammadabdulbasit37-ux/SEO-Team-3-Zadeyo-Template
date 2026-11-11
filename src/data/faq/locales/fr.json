@@ -1,0 +1,152 @@
+[
+  {
+    "id": "status",
+    "q": "Où vérifier si les cheats Modern Warfare 4 sont en ligne ?",
+    "a": "La bannière de statut est sur {siteDomain}. Lisez-la après une mise à jour de Modern Warfare 4 et après une mise à jour anti-triche."
+  },
+  {
+    "id": "after-buy",
+    "q": "Que se passe-t-il après l'achat ?",
+    "a": "Après le paiement, retrouvez le chargeur, le guide d'installation et vos configurations enregistrées dans le portail. Lisez le guide avant de lancer Modern Warfare 4."
+  },
+  {
+    "id": "ban-risk",
+    "q": "Puis-je être sanctionné en utilisant des cheats Modern Warfare 4 tiers ?",
+    "a": "Oui. Une modification tierce peut entraîner une sanction de compte. Les règles anti-triche changent. Lisez la bannière avant d'utiliser le menu."
+  },
+  {
+    "id": "platforms",
+    "q": "Quelles plateformes sont prises en charge ?",
+    "a": "Modern Warfare 4 sur Windows 10 ou Windows 11 en 64 bits. macOS et Linux ne figurent pas sur cette liste."
+  },
+  {
+    "id": "license-move",
+    "q": "Puis-je déplacer ma licence vers un nouveau PC ?",
+    "a": "Utilisez la réinitialisation HWID dans le portail ou ouvrez un ticket support. Le nombre de transferts dépend du niveau."
+  },
+  {
+    "id": "products-page",
+    "q": "Où sont listés les produits et utilitaires ?",
+    "a": "Chaque produit est sur la <a href=\"/products/\">page produits</a> : {productList}. Chaque page produit présente ses fonctionnalités et propose un lien de paiement."
+  },
+  {
+    "id": "cloud-dma-what",
+    "q": "Que configure Cloud DMA ?",
+    "a": "Le programme d’installation prépare l’environnement virtuel sur votre PC et active le service via une connexion chiffrée."
+  },
+  {
+    "id": "cloud-dma-requires",
+    "q": "Quels autres achats sont nécessaires ?",
+    "a": "Selon la configuration, GREENWARD, Static Server et AWS peuvent nécessiter des achats séparés."
+  },
+  {
+    "id": "cloud-dma-license",
+    "q": "Combien coûte la licence Cloud DMA ?",
+    "a": "Consultez le prix en vigueur de la licence à vie au moment du paiement."
+  },
+  {
+    "id": "skin-visible",
+    "q": "Skin Changer ajoute-t-il des cosmétiques à mon inventaire ?",
+    "a": "Non. <a href=\"/skin-changer/\">Skin Changer</a> dessine le cosmétique sur votre client seulement. L'inventaire reste vide. Un échange reste impossible. Les autres joueurs ne devraient pas voir la finition."
+  },
+  {
+    "id": "skin-games",
+    "q": "Quels jeux Skin Changer liste-t-il ?",
+    "a": "Les jeux majeurs sont nommés sur la page produit. Un patch peut retirer ce support. Écrivez au support et indiquez votre titre avant le paiement."
+  },
+  {
+    "id": "utility-requirements",
+    "q": "Quelle configuration Windows les utilitaires exigent-ils ?",
+    "a": "Windows 10 ou 11. HVCI et Core Isolation activés. TPM et Secure Boot activés, dans Sécurité Windows et dans le firmware. HWID Spoofer exige aussi les droits administrateur. Chaque page utilitaire liste le reste."
+  },
+  {
+    "id": "what-is-esp",
+    "q": "Qu'est-ce que l'ESP Modern Warfare 4 ?",
+    "a": "ESP et wallhack affichent la position ennemie, la santé et la distance sur Modern Warfare 4. <a href=\"/cheats/\">{cheatProduct}</a> inclut aussi aimbot, silent aimbot, sans recul, God Mode, munitions infinies et speedhack."
+  },
+  {
+    "id": "esp-vs-aim",
+    "q": "Quelle est la différence entre ESP et aimbot ?",
+    "a": "ESP et wallhack dessinent des informations. Ils laissent le réticule où vous le placez. Aimbot, silent aimbot et sans recul sont des interrupteurs séparés sur <a href=\"/cheats/\">{cheatProduct}</a>."
+  },
+  {
+    "id": "elite-slots",
+    "q": "Pourquoi le cheat est-il vendu comme un build privé ?",
+    "a": "La build est privée, avec support développeur direct et livraison de patchs prioritaire. Un plafond de places garde ces cycles de patch courts. Lisez la bannière avant de payer."
+  },
+  {
+    "id": "stream-proof",
+    "q": "OBS peut-il capturer ma superposition ?",
+    "a": "La liste d'options sur <a href=\"/cheats/\">{cheatProduct}</a> n'a pas de filtre de capture. Faites un enregistrement local avant une session en direct."
+  },
+  {
+    "id": "build-status",
+    "q": "La build restera-t-elle en ligne après chaque patch ?",
+    "a": "Non. La bannière et la page produit montrent le statut au moment où vous regardez. Si la build indique updating, testing ou offline après une mise à jour anti-triche, attendez."
+  },
+  {
+    "id": "esp-safer",
+    "q": "L'ESP est-il plus discret que l'aimbot ?",
+    "a": "L'ESP peut être moins visible qu'un aimbot au maximum. C'est toujours un cheat. Laisser l'aide à la visée désactivée ne le retire pas de l'examen anti-triche."
+  },
+  {
+    "id": "hwid-when",
+    "q": "Quand ouvrir HWID Spoofer ?",
+    "a": "<a href=\"/hwid-spoofer/\">HWID Spoofer</a> sert pour un flag d'ID matériel : d'autres PC acceptent la connexion et celui-ci la refuse. Les numéros de série disque sont rafraîchis. Adresses MAC, ID GPU et valeurs liées aussi. Un nettoyeur est inclus. Un compte toujours sanctionné n'est pas effacé."
+  },
+  {
+    "id": "external-loader",
+    "q": "Le chargeur est-il injecté dans le dossier du jeu ?",
+    "a": "{siteName} exécute un chargeur externe et synchronise les configs depuis le portail. Il ne place pas de fichiers dans le répertoire Modern Warfare 4. Des sanctions de compte peuvent quand même suivre. Voir <a href=\"/cheats/\">{cheatProduct}</a>."
+  },
+  {
+    "id": "blog-vs-cheats",
+    "q": "Cet article remplace-t-il la bannière d'état en direct ?",
+    "a": "Non. Les guides expliquent un sujet. Une session Modern Warfare 4 en direct utilise toujours <a href=\"/cheats/\">{cheatProduct}</a> quand la bannière sur {siteDomain} indique en ligne."
+  },
+  {
+    "id": "blog-setup",
+    "q": "Où les guides du blog renvoient-ils pour l'achat ?",
+    "a": "Les guides renvoient à des pages produit comme <a href=\"/cheats/\">{cheatProduct}</a>. Utilisez le lien de paiement de la page produit et téléchargez le chargeur depuis le portail."
+  },
+  {
+    "id": "who-cheats",
+    "q": "Qui devrait acheter Modern Warfare 4 Cheats ?",
+    "a": "Les personnes qui veulent aimbot, silent aimbot, ESP, wallhack et les autres options listées en jouant à Modern Warfare 4."
+  },
+  {
+    "id": "vac-update",
+    "q": "Que faire après une mise à jour anti-triche ?",
+    "a": "Lisez le statut sur {siteDomain}. Attendez que la bannière indique en ligne. Après un patch, commencez avec des réglages aim et ESP plus discrets."
+  },
+  {
+    "id": "discord-help",
+    "q": "Comment obtenir de l'aide à l'installation ?",
+    "a": "Après paiement, ouvrez un ticket avec l'e-mail de commande, la version Windows et la build client Modern Warfare 4. Le support vous guide sur le chargeur à partir de là."
+  },
+  {
+    "id": "pmc-scav-raids",
+    "q": "Les modules fonctionnent-ils dans tous les modes Modern Warfare 4 ?",
+    "a": "La même liste d'options est celle que le menu affiche dans chaque mode. Réglez la distance ESP et la fluidité de visée avant le premier match sur <a href=\"/cheats/\">{cheatProduct}</a>."
+  },
+  {
+    "id": "zoom-hack",
+    "q": "Quelles options couvrent ESP et wallhack ?",
+    "a": "ESP et wallhack font partie de <a href=\"/cheats/\">{cheatProduct}</a>. Ils affichent position ennemie, santé et distance."
+  },
+  {
+    "id": "trigger-bot",
+    "q": "Le produit inclut-il silent aimbot ?",
+    "a": "Aimbot, silent aimbot et sans recul sont sur <a href=\"/cheats/\">{cheatProduct}</a>. Chacun a un interrupteur dans le menu."
+  },
+  {
+    "id": "private-cheats",
+    "q": "Que sont les cheats privés Modern Warfare 4 ?",
+    "a": "Privé signifie une clé par utilisateur et une build maintenue, livrée dans le portail pour le menu Modern Warfare 4 sur une licence."
+  },
+  {
+    "id": "faq-more",
+    "q": "Où est la FAQ complète ?",
+    "a": "Des réponses courtes sont sur la page d'accueil et sur chaque page produit. La <a href=\"/faq/\">FAQ complète</a> contient l'ensemble, et les <a href=\"/blog/\">guides du blog</a> accueillent les guides plus longs quand ils sont publiés."
+  }
+]

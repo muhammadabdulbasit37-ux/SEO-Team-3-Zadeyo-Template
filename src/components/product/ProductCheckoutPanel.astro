@@ -1,0 +1,55 @@
+---
+import type { ProductPage } from '../../data/products';
+import Icon from '../icons/Icon.astro';
+import ProductIconWell from './ProductIconWell.astro';
+import { Button } from '@/components/starwind/button';
+import { useLocale } from '../../i18n';
+
+interface Props {
+  product: ProductPage;
+  title: string;
+}
+
+const { product, title } = Astro.props;
+const { locale, t } = useLocale(Astro.currentLocale);
+const checkoutCopy = {
+  en: {
+    description: 'Open the product page to review available options, pricing, and terms before you buy.',
+    checklistTitle: 'Before you order',
+    checklist: 'Review the setup requirements on this page and check what’s included in your selection.',
+  },
+  es: {
+    description: 'Abre la página del producto para consultar las opciones, los precios y las condiciones antes de comprar.',
+    checklistTitle: 'Antes de comprar',
+    checklist: 'Consulta los requisitos de instalación de esta página y comprueba qué incluye tu opción.',
+  },
+  de: {
+    description: 'Auf der Produktseite findest du die verfügbaren Kaufoptionen, Preise und Bedingungen.',
+    checklistTitle: 'Vor der Bestellung',
+    checklist: 'Lies die Setup-Anforderungen auf dieser Seite und prüfe, was deine Auswahl enthält.',
+  },
+  fr: {
+    description: 'Consultez les options, les prix et les conditions sur la page du produit avant d’acheter.',
+    checklistTitle: 'Avant de commander',
+    checklist: 'Consultez les prérequis sur cette page et vérifiez ce que votre option inclut.',
+  },
+}[locale];
+---
+
+<aside id="checkout" class="product-checkout grid min-w-0 gap-4 border-t border-border p-4 text-left sm:max-lg:p-5 lg:content-center lg:gap-6 lg:border-l lg:border-t-0 xl:gap-8 xl:p-5" aria-labelledby={`checkout-${product.slug}`} data-product-checkout>
+  <div class="flex items-center gap-3">
+    <ProductIconWell name="acqPackage" iconSize={20} class="bg-primary/15" />
+    <h2 id={`checkout-${product.slug}`} class="min-w-0 font-[family-name:var(--font-heading)] text-xl font-bold leading-snug tracking-tight text-foreground lg:max-xl:text-lg">{title}</h2>
+  </div>
+  <div class="grid gap-3 text-sm leading-relaxed text-muted-foreground xl:gap-4">
+    <p>{checkoutCopy.description}</p>
+    <div class="grid gap-1 border-t border-border pt-3">
+      <h3 class="font-semibold text-foreground">{checkoutCopy.checklistTitle}</h3>
+      <p>{checkoutCopy.checklist}</p>
+    </div>
+  </div>
+  <Button as="a" href={product.buyUrl} rel="sponsored nofollow" variant="primary" size="lg" class="w-full rounded-xl" data-checkout-buy>
+    {t.products.buyNow}
+    <Icon name="arrowRight" size={17} />
+  </Button>
+</aside>
