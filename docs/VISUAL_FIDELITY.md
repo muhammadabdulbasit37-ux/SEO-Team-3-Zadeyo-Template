@@ -21,3 +21,10 @@ The supplied original Astro website is the **reference for alignment and styling
 4. Prioritize unchanged **component hierarchy, section order, alignment axes, container widths, responsive behavior**, then copy depth, readability and performance. Different copy may legitimately change vertical page length; that's not a layout regression.
 
 The visual checker is a regression aid, not pixel-perfect certification. If browser tools aren't present, perform manual screenshot comparison and clearly report unverified checks.
+
+## Protected, owner-approved differences (do not "improve" away)
+
+- Keep the original comparison with green checks for this storefront and **X** icons for **Other providers**. Localized **Varies** is the explanatory tooltip/accessibility label; never replace the X with a generic neutral card or assert specific competitor deficiencies without evidence.
+- Keep the current mobile header uncluttered, including the compact wordmark treatment under narrow viewports. Preserve the catalog's concise heading and keep obsolete Limited/scarcity badges out. Align marquee/stat icons to what their localized labels actually mean.
+- Navbar CTA and hero primary CTA use the **direct** main-product referral (`CHECKOUT_URLS.primary`); product cards/details continue using their defined routes. The localized product CTA text is a fixed design feature.
+- Only ask approval when a needed fix would change these protected decisions or another explicit user rule. Routine overflow/functional bugs should be fixed and retested without asking.

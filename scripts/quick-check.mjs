@@ -41,5 +41,24 @@ for (const { path, destination } of Object.values(SUPPORT_CHANNELS)) {
   assert.equal(resolveOutboundRedirect(path, ''), destination, `${path}: support redirect mismatch`);
 }
 
+
+// Owner-approved UI contract for the reusable starter.
+const navbar = readFileSync('src/components/Header.astro', 'utf8');
+const hero = readFileSync('src/components/HeroSection.astro', 'utf8');
+assert.match(navbar, /const productUrl = CHECKOUT_URLS\.primary;/, 'Navbar must use direct main referral');
+assert.match(hero, /href=\{CHECKOUT_URLS\.primary\}/, 'Hero CTA must use direct main referral');
+assert.ok(!hero.includes('data-scroll-target="products"'), 'Hero direct CTA must not be intercepted by product-section scroll logic');
+const comparison = readFileSync('src/components/WhySetupSection.astro', 'utf8');
+assert.match(comparison, /Icon name="x"/, 'Comparison must keep X icons');
+assert.match(comparison, /why\.variesLabel/, 'Comparison must retain localized Varies tooltip/accessibility text');
+const productHeader = readFileSync('src/components/product/ProductDetailHeader.astro', 'utf8');
+assert.ok(!productHeader.includes('Limited</Badge>'), 'Obsolete Limited badge must stay removed');
+assert.ok(!en.includes('Limited slots'), 'Do not restore unconfirmed scarcity copy');
+for (const l of ['es', 'de', 'fr']) {
+  const copy = JSON.parse(readFileSync(`src/i18n/dictionaries/${l}.json`, 'utf8'));
+  assert.ok(copy.whyUs.variesLabel && copy.whyUs.otherLabel, `${l}: comparison labels missing`);
+  assert.notEqual(copy.cheats.items[0].variant, 'limited', `${l}: obsolete Limited variant`);
+}
+
 console.log('Quick check passed: 4 checkout routes, 3 support routes, lifetime-only DMA, localized CTAs, checkout-only UI, 6-part workflow, no reviews, Codex skills.');
 console.log('Note: this is NOT a full build, live browser, SEO, price-verification or deployment audit.');

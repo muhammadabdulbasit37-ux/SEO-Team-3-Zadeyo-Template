@@ -1,6 +1,6 @@
 ---
 import { useLocale } from '../i18n';
-import { PRIMARY_CHECKOUT_PATH } from '../config/checkout';
+import { CHECKOUT_URLS } from '../config/checkout-redirects.mjs';
 
 const { locale, t } = useLocale(Astro.currentLocale);
 import { getHeroSlides } from '../data/products';
@@ -53,8 +53,7 @@ const heroMarqueePills = [
         <div class="flex flex-wrap justify-start gap-3 sm:gap-4">
           <Button
             as="a"
-            href={PRIMARY_CHECKOUT_PATH}
-            rel="sponsored nofollow"
+            href={CHECKOUT_URLS.primary}
             variant="primary"
             size="lg"
             class="rounded-xl"

@@ -15,7 +15,6 @@ const isGameProduct = product.kind === 'tier';
   <div class="flex flex-wrap items-center gap-2">
     <Badge variant="secondary">{product.badge}</Badge>
     {product.variant === 'popular' && <Badge>Popular</Badge>}
-    {product.variant === 'limited' && <Badge variant="warning">Limited</Badge>}
     {isGameProduct && <Badge variant="outline">{GAME.shortName}</Badge>}
     {product.category && !isGameProduct && <Badge variant="outline">{product.category}</Badge>}
   </div>

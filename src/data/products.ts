@@ -71,7 +71,7 @@ export interface ProductPage {
   desc: string;
   features: string[];
   more: number;
-  variant?: 'essential' | 'popular' | 'limited';
+  variant?: 'essential' | 'popular';
   buyUrl: string;
   images: ProductSlide[];
   overview: ProductOverview;

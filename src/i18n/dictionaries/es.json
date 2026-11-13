@@ -243,7 +243,7 @@
     "title": "Herramientas de Modern Warfare 4 respaldadas por parches, no por promesas",
     "subtitle": "{siteDomain} publica compilaciones del cargador el día del parche. El ESP muestra posición, salud y distancia. Los operadores cubren un turno 24/7.",
     "usLabel": "{siteName}",
-    "otherLabel": "Proveedor típico",
+    "otherLabel": "Otros proveedores",
     "rows": [
       {
         "title": "Actualizaciones del cargador el día del parche",
@@ -286,7 +286,8 @@
         "title": "Operadores activos",
         "desc": "Jugadores en Windows en {siteDomain} usando el menú del cheat y las utilidades."
       }
-    ]
+    ],
+    "variesLabel": "Varía"
   },
   "setup": {
     "eyebrow": "Guía de configuración",
@@ -337,7 +338,7 @@
     "explore": "Explorar",
     "items": [
       {
-        "badge": "Plazas limitadas",
+        "badge": "Producto principal",
         "tier": "Privado",
         "name": "Modern Warfare 4 Cheats",
         "title": "Modern Warfare 4 Hacks para Windows",
@@ -354,7 +355,7 @@
         ],
         "more": 9,
         "href": "/cheats/",
-        "variant": "limited"
+        "variant": "essential"
       }
     ]
   },

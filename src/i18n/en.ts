@@ -148,7 +148,8 @@ export const en: Translations = {
     subtitle:
       '{siteDomain} ships loader builds on patch day. ESP shows position, health, and distance. Operators work a 24/7 shift.',
     usLabel: '{siteName}',
-    otherLabel: 'Typical provider',
+    otherLabel: 'Other providers',
+    variesLabel: 'Varies',
     rows: [
       {
         title: 'Patch-day loader updates',
@@ -235,7 +236,7 @@ export const en: Translations = {
     explore: 'Explore',
     items: [
       {
-        badge: 'Limited slots',
+        badge: 'Main product',
         tier: 'Private',
         name: 'Modern Warfare 4 Cheats',
         title: 'Modern Warfare 4 Hacks for Windows',
@@ -247,7 +248,7 @@ export const en: Translations = {
         features: ['Aimbot', 'Silent aimbot', 'ESP', 'Wallhack', 'No recoil', 'Speedhack'],
         more: 9,
         href: productBase,
-        variant: 'limited',
+        variant: 'essential',
       },
     ],
   },

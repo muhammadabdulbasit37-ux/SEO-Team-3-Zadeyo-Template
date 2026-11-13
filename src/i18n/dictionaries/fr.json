@@ -243,7 +243,7 @@
     "title": "Outils Modern Warfare 4 portés par les patches, pas par des promesses",
     "subtitle": "{siteDomain} publie des builds de chargeur le jour du patch. L'ESP affiche position, santé et distance. Les opérateurs tiennent un service 24h/24.",
     "usLabel": "{siteName}",
-    "otherLabel": "Fournisseur type",
+    "otherLabel": "Autres fournisseurs",
     "rows": [
       {
         "title": "Mises à jour chargeur le jour du patch",
@@ -286,7 +286,8 @@
         "title": "Opérateurs actifs",
         "desc": "Joueurs Windows sur {siteDomain} qui utilisent le menu cheat et les utilitaires."
       }
-    ]
+    ],
+    "variesLabel": "Variable"
   },
   "setup": {
     "eyebrow": "Guide de configuration",
@@ -337,7 +338,7 @@
     "explore": "Explorer",
     "items": [
       {
-        "badge": "Places limitées",
+        "badge": "Produit principal",
         "tier": "Privée",
         "name": "Modern Warfare 4 Cheats",
         "title": "Hacks Modern Warfare 4 pour Windows",
@@ -354,7 +355,7 @@
         ],
         "more": 9,
         "href": "/cheats/",
-        "variant": "limited"
+        "variant": "essential"
       }
     ]
   },

@@ -30,29 +30,23 @@ export const blogTagIcons: Record<string, IconName> = {
 };
 
 /** Icon order matches `hero.statusPills` in each locale dictionary. */
+/** Parallel to hero.statusPills; update both together if future game changes label order. */
 export const heroStatusPillIcons: IconName[] = [
-  'espActive',
-  'radarOnline',
-  'seasonBuild',
-  'undetected',
-  'softAim',
-  'noRecoil',
-  'streamProof',
-  'lootEsp',
-  'skeletonEsp',
-  'uavRadar',
-  'mapHack',
-  'support247',
-  'instantDelivery',
-  'rankedSafe',
-  'triggerBot',
-  'boneSelect',
-  'liveStatus',
-  'autoUpdates',
+  'featureAimbot',   // Aimbot
+  'softAim',         // Silent aimbot
+  'featureEsp',      // ESP
+  'skeletonEsp',     // Wallhack
+  'featureNoRecoil', // No recoil
+  'shieldCheck',     // God Mode
+  'featureUtilitySuite', // Infinite ammo
+  'compatRefresh',   // Speedhack
+  'settings',        // Menu toggles
+  'support247',      // Support
+  'liveStatus',      // Live status
 ];
 
 export const heroStatIcons: IconName[] = [
-  'heroStatStream',
+  'softAim',
   'heroStatClock',
   'heroStatUsers',
   'heroStatHeadphones',

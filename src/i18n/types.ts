@@ -43,7 +43,7 @@ export interface TierCard {
   features: string[];
   more: number;
   href: string;
-  variant: 'essential' | 'popular' | 'limited';
+  variant: 'essential' | 'popular';
 }
 
 export interface ProductCard {
@@ -146,6 +146,7 @@ export interface Translations {
     subtitle: string;
     usLabel: string;
     otherLabel: string;
+    variesLabel: string;
     rows: WhyCompareRow[];
     metrics: WhyMetric[];
   };

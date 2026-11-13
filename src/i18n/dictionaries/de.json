@@ -243,7 +243,7 @@
     "title": "Modern Warfare 4-Tools, die Patches statt Versprechen liefern",
     "subtitle": "{siteDomain} liefert Loader-Builds am Patch-Tag. ESP zeigt Position, Gesundheit und Distanz. Operatoren arbeiten im 24/7-Dienst.",
     "usLabel": "{siteName}",
-    "otherLabel": "Typischer Anbieter",
+    "otherLabel": "Andere Anbieter",
     "rows": [
       {
         "title": "Loader-Updates am Patch-Tag",
@@ -286,7 +286,8 @@
         "title": "Aktive Nutzer",
         "desc": "Windows-Spieler auf {siteDomain}, die Cheat-Menü und Utilities nutzen."
       }
-    ]
+    ],
+    "variesLabel": "Variiert"
   },
   "setup": {
     "eyebrow": "Einrichtungsanleitung",
@@ -337,7 +338,7 @@
     "explore": "Entdecken",
     "items": [
       {
-        "badge": "Begrenzte Slots",
+        "badge": "Hauptprodukt",
         "tier": "Privat",
         "name": "Modern Warfare 4 Cheats",
         "title": "Modern Warfare 4 Hacks für Windows",
@@ -354,7 +355,7 @@
         ],
         "more": 9,
         "href": "/cheats/",
-        "variant": "limited"
+        "variant": "essential"
       }
     ]
   },
